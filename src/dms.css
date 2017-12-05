@@ -1,0 +1,38 @@
+.root
+{
+    -fx-background-color: linear-gradient(white, #808080);
+    -fx-font-size: 12pt;
+    -fx-font-family: "Consolas";
+    -fx-accent: #0093ff;
+    -fx-focus-color: black;
+}
+
+
+.label
+{
+    -fx-font-family: "Consolas";
+    -fx-text-fill: black;
+}
+.button
+{
+    -fx-focus-color: black;
+    -fx-background-radius: 0;
+    -fx-text-fill: ivory;
+    -fx-size: 80pt;
+    -fx-color: #4040dd;
+}
+.hBox
+{
+    -fx-spacing: 15;
+}
+.vBox
+{
+    -fx-spacing: 15;
+}
+.toggleButton
+{
+    -fx-background-radius: 0;
+    -fx-text-fill: blue;
+    -fx-background-color: ivory;
+    -fx-size: 150pt;
+}

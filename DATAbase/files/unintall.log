@@ -1,0 +1,61 @@
+2016-7-15 18:51:29 622  modulefile=C:\Users\Administrator\AppData\Local\liebao\5.3.108.11283\uninst.exe,installPath=C:\Users\Administrator\AppData\Local\liebao\
+2016-7-15 18:51:29 716  RunApp szPath=C:\Users\ADMINI~1\AppData\Local\Temp\uninst.exe,szCmd=SoftMgr.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2016-7-15 18:51:29 778  RunApp bRet=1
+
+2016-7-15 18:51:29 794  modulefile=C:\Users\ADMINI~1\AppData\Local\Temp\uninst.exe,installPath=C:\Users\Administrator\AppData\Local\liebao\
+2016-7-15 18:51:39 762  RealDownloadUninstallConfigFunc start
+2016-7-15 18:51:39 825  DeleteShortcut begin!!
+2016-7-15 18:51:39 825  CreateShellLink start...
+2016-7-15 18:51:39 825  Save = 0x80070002
+2016-7-15 18:51:39 856  DeleteShortcut end!!
+2016-7-15 18:51:39 856  DeleteProductFile begin!!
+2016-7-15 18:51:39 856  File C Not Exits
+2016-7-15 18:51:39 856  DeleteProductFile end!!
+2016-7-15 18:51:39 856  StopSvr begin!!
+2016-7-15 18:51:39 856  StopSvr = C:\Users\Administrator\AppData\Local\liebao\5.3.108.11283 
+
+2016-7-15 18:51:39 856  GetDebugPrivilege bRet=1,code=0
+
+2016-7-15 18:51:39 871  KillProcessByPath Begin
+
+2016-7-15 18:51:39 871  KillProcessByPath path:\Device\HarddiskVolume1\Users\Administrator\AppData\Local\liebao\5.3.108.11283\knbcenter.exe
+2016-7-15 18:51:39 871  KillProcessByPath End
+
+2016-7-15 18:51:39 871  StopSvr dwcode=0
+2016-7-15 18:51:39 871  StopSvr end!!
+2016-7-15 18:51:39 903  URLDownloadToFile start 0x0
+2016-7-15 18:51:39 903  RealDownloadUninstallConfigFunc end
+2016-7-15 18:51:40 230  ClearBDHDFolder begin!!
+2016-7-15 18:51:40 230  ClearBDHDFolder end!!
+2017-1-16 10:42:36 020  modulefile=C:\Users\Administrator\AppData\Local\liebao\5.3.108.11949\uninst.exe,installPath=C:\Users\Administrator\AppData\Local\liebao\
+2017-1-16 10:42:36 576  RunApp szPath=C:\Users\ADMINI~1\AppData\Local\Temp\uninst.exe,szCmd=QQPCSoftMgr.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2017-1-16 10:42:37 031  RunApp bRet=1
+
+2017-1-16 10:42:37 312  modulefile=C:\Users\ADMINI~1\AppData\Local\Temp\uninst.exe,installPath=C:\Users\Administrator\AppData\Local\liebao\
+2017-1-16 10:42:43 993  RealDownloadUninstallConfigFunc start
+2017-1-16 10:42:44 568  URLDownloadToFile start 0x0
+2017-1-16 10:42:44 569  RealDownloadUninstallConfigFunc end
+2017-1-16 10:42:44 660  DeleteShortcut begin!!
+2017-1-16 10:42:44 662  CreateShellLink start...
+2017-1-16 10:42:44 675  Save = 0x80070002
+2017-1-16 10:42:44 693  DeleteShortcut end!!
+2017-1-16 10:42:44 757  DeleteProductFile begin!!
+2017-1-16 10:42:44 758  File C Not Exits
+2017-1-16 10:42:44 758  DeleteProductFile end!!
+2017-1-16 10:42:44 758  StopSvr begin!!
+2017-1-16 10:42:44 758  StopSvr = C:\Users\Administrator\AppData\Local\liebao\5.3.108.11949 
+
+2017-1-16 10:42:44 758  GetDebugPrivilege bRet=1,code=0
+
+2017-1-16 10:42:44 758  KillProcessByPath Begin
+
+2017-1-16 10:42:44 758  KillProcessByPath path:\Device\HarddiskVolume1\Users\Administrator\AppData\Local\liebao\5.3.108.11949\knbcenter.exe
+2017-1-16 10:42:44 807  KillProcessByPath End
+
+2017-1-16 10:42:44 808  StopSvr dwcode=0
+2017-1-16 10:42:44 808  StopSvr end!!
+2017-1-16 10:42:45 416  ClearBDHDFolder begin!!
+2017-1-16 10:42:45 417  ClearBDHDFolder end!!
+ÿ
